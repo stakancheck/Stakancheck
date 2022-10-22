@@ -7,3 +7,6 @@
 <aside>
 EMAIL: <a href="mailto:artem@stakancheck.space">artem@stakancheck.space</a>
 </aside>
+
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stakancheck&show_icons=true&theme=tokyonight)
