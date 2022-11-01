@@ -21,7 +21,6 @@
 
 <h1 align="center" >Some Tools I Have Used and Learned</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
@@ -34,7 +33,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="firefox" width="45" height="45"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/> 
-  <img src="https://github.com/Yelp/mrjob/blob/master/docs/logos/logo_small.png?raw=true" alt="mrjob" width="45" height="45"/> 
   <img src="https://user-images.githubusercontent.com/49817414/199301971-ad715bb2-4f10-4a06-9752-790334cff121.png" alt="apachespark" width="65" height="45"/> 
   <img src="https://1000logos.net/wp-content/uploads/2017/06/Ubuntu-Logo.png" alt="ubuntu" width="50" height="45"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
