@@ -6,7 +6,7 @@
 <h1 align="center" >Contacts</h1>
 
 <p align="center">
-<img width="33%" src="/src/Telegram.png" href="https://t.me/stakancheck"><img width="33%" src="/src/Vkontakte.png" href="https://vk.com/stakan4ek"><img width="33%" src="/src/Email.png" href="mailto:artem@stakancheck.space">
+  <a href="https://t.me/stakancheck"><img width="33%" src="/src/Telegram.png"></a><a href="https://vk.com/stakan4ek"><img width="33%" src="/src/Vkontakte.png"></a><a href="mailto:artem@stakancheck.space"><img width="33%" src="/src/Email.png"></a>
 </p>
 <br>
 
