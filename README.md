@@ -19,6 +19,11 @@
 </p>
 <br>
 
+<h1 align="center" >Stats</h1>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<br>
+
 <h1 align="center" >Some Tools I Have Used and Learned</h1>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
