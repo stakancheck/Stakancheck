@@ -19,7 +19,7 @@
 </p>
 <br>
 
-<h1 align="center" >Stats</h1>
+<h1 align="center" >Wakatime</h1>
 <!--START_SECTION:waka-->
 
 ```text
