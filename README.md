@@ -6,7 +6,7 @@
 <h1 align="center" >Contacts</h1>
 
 <p align="center">
-  <a href="mailto:stakancheck@gmail.com"><img width="33%" src="https://github.com/stakancheck/Stakancheck/assets/49817414/35722266-d432-40a9-9d91-0423f6debc72"></a><a href="https://t.me/stakancheck"><img width="33%" src="https://github.com/stakancheck/Stakancheck/assets/49817414/eb410d01-f577-4629-af5c-23b9c904495c"></a><a href="https://stakancheck.github.io/"><img width="33%" src="https://github.com/stakancheck/Stakancheck/assets/49817414/ad909476-cac8-4698-ac21-cccead6044e3"></a>
+  <a href="mailto:stakancheck@gmail.com"><img width="33%" src="https://github.com/stakancheck/Stakancheck/assets/49817414/35722266-d432-40a9-9d91-0423f6debc72"></a><a href="https://t.me/stakancheck"><img width="33%" src="https://github.com/stakancheck/Stakancheck/assets/49817414/eb410d01-f577-4629-af5c-23b9c904495c"></a><a href="https://stakancheck.github.io/"><img width="33%" src="https://github.com/stakancheck/Stakancheck/assets/49817414/7095f74b-0ff5-4d16-8bc5-8f7fb796a046"></a>
 </p>
 <br>
 
