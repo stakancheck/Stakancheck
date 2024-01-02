@@ -14,8 +14,8 @@
 <h1 align="center" >Stats</h1>
 <p align="center">
   <a href="https://github.com/stakancheck" >
-    <img src="https://github-readme-stats.vercel.app/api?username=stakancheck&show_icons=true&theme=tokyonight&bg_color=191919&icon_color=308280&text_color=efce26&title_color=efce26&border_radius=10&count_private=true&show_icons=true&card_width=970px&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stakancheck&layout=compact&theme=tokyonight&bg_color=191919&icon_color=edcc26&text_color=efce26&title_color=efce26&border_radius=10&card_width=920px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=stakancheck&show_icons=true&theme=tokyonight&bg_color=0F0F0F&icon_color=53D2CF&text_color=F2F2F2&title_color=53D2CF&border_radius=10&count_private=true&show_icons=true&card_width=970px&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stakancheck&layout=compact&theme=tokyonight&bg_color=0F0F0F&icon_color=53D2CF&text_color=F2F2F2&title_color=53D2CF&border_radius=10&card_width=920px" />
   </a>
 </p>
 <br>
